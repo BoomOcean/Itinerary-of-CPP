@@ -1,0 +1,2 @@
+F:\dev\Varible\Debug\Varible.exe
+F:\dev\Varible\Debug\Varible.pdb

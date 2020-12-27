@@ -1,0 +1,2 @@
+F:\dev\Function\Debug\Function.exe
+F:\dev\Function\Debug\Function.pdb

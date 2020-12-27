@@ -1,0 +1,2 @@
+F:\dev\Project2\Debug\Project2.exe
+F:\dev\Project2\Debug\Project2.pdb
